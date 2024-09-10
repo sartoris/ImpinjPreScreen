@@ -1,5 +1,3 @@
-using System;
-using CsvHelper.Configuration;
 using CsvHelper.Configuration.Attributes;
 
 namespace PreScreen.Models;

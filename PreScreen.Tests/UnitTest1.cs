@@ -1,5 +1,4 @@
 using System.Text;
-using System.IO;
 using Microsoft.AspNetCore.Http;
 using PreScreen.Models;
 using PreScreen.Services;

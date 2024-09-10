@@ -1,5 +1,3 @@
-using System;
-
 namespace PreScreen.Models;
 
 public class SalesSummary
